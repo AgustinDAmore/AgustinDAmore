@@ -37,7 +37,6 @@
 </tabla>
 
 ### Herramientas
-
 <tabla>
     <tr>
         <td ancho="50%">
@@ -47,7 +46,12 @@
         </td>
         <td ancho="50%">
             <a href="https://github.com/AgustinDAmore">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width="7%">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width="5%">
+            </a>
+        </td>
+        <td ancho="50%">
+            <a href="https://github.com/AgustinDAmore">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="5%">
             </a>
         </td>
     </tr>
