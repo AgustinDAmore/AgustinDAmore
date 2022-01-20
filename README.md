@@ -21,30 +21,32 @@
 
 ### Lenguajes
 
-<tr>
-    <td ancho="50%">
-        <a>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="5%">
-        </a>
-    </td>
-    <td ancho="50%">
-        <a>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="5%">
-        </a>
-    </td>
-</tr>
+<tabla>
+    <tr>
+        <td ancho="50%">
+            <a href="https://github.com/AgustinDAmore">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="5%">
+            </a>
+        </td>
+        <td ancho="50%">
+            <a href="https://github.com/AgustinDAmore">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="5%">
+            </a>
+        </td>
+    </tr>
+</tabla>
 
 ### Herramientas
 
 <tabla>
     <tr>
         <td ancho="50%">
-            <a>
+            <a href="https://github.com/AgustinDAmore">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="5%">
             </a>
         </td>
         <td ancho="50%">
-            <a>
+            <a href="https://github.com/AgustinDAmore">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width="5%">
             </a>
         </td>
