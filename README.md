@@ -54,5 +54,10 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="4%">
             </a>
         </td>
+        <td ancho="100%">
+            <a href="https://github.com/AgustinDAmore">
+                <img src="https://www.google.com/search?q=git&tbm=isch&chips=q:git,online_chips:png:YAkZR1m0X1M%3D&client=tablet-android-samsung-nf-rev1&prmd=vinx&hl=es-419&sa=X&ved=2ahUKEwiK9aDR28X1AhXZDbkGHW16DhUQ4lYoAnoECAEQCQ&biw=1463&bih=723#imgrc=iBgxa53LgX2kxM" width="4%">
+            </a>
+        </td>
     </tr>
 </tabla>
