@@ -54,9 +54,9 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="4%">
             </a>
         </td>
-        <td ancho="150%">
+        <td ancho="100%">
             <a href="https://github.com/AgustinDAmore">
-                <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="4%">
+                <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="6%">
             </a>
         </td>
     </tr>
