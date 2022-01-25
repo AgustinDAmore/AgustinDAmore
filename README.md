@@ -60,7 +60,6 @@
             </a>
         </td>
         <td ancho="100%">
-            <button>Hover me!</button>
             <a href="https://github.com/AgustinDAmore">
                 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%">
             </a>
