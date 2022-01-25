@@ -1,25 +1,29 @@
-<h1>
+<br>
     Mis redes
-</h1>
+</br>
 <tabla>
     <tr>
-        <a href="https://www.instagram.com/agus_damore/">
-            <button>instagram!</button>
-        </a>
-
-        <a href="https://twitter.com/damore_agustin">
-            <button>twitter!</button>
-        </a>
-
-        <a href="https://www.linkedin.com/in/agustindamore/">
-            <button>linkedin!</button>
-        </a>
+        <td ancho="100%">
+            <a href="https://www.instagram.com/agus_damore/">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="5%">
+            </a>
+        </td>
+        <td ancho="100%">
+            <a href="https://twitter.com/damore_agustin">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" width="5%">
+            </a>
+        </td>
+        <td ancho="100%">
+            <a href="https://www.linkedin.com/in/agustindamore/">
+                <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="5%">
+            </a>
+        </td>
     </tr>
 </tabla>
 
-<h1>
+<br>
     Lenguajes
-<h1>
+<br>
 <tabla>
     <tr>
         <td ancho="100%">
@@ -35,9 +39,9 @@
     </tr>
 </tabla>
 
-<h1>
+<br>
     Herramientas
-</h1>
+</br>
 <tabla>
     <tr>
         <td ancho="100%">
@@ -56,53 +60,10 @@
             </a>
         </td>
         <td ancho="100%">
+            <button>Hover me!</button>
             <a href="https://github.com/AgustinDAmore">
                 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%">
             </a>
         </td>
     </tr>
 </tabla>
-
-<style>
-h1 {
-    color: #1BFD9C;
-    display: block;
-    margin: center;
-}
-button {
- --green: #1BFD9C;
- font-size: 15px;
- padding: 0.7em 2.7em;
- letter-spacing: 0.06em;
- position: relative;
- font-family: inherit;
- border-radius: 0.6em;
- overflow: hidden;
- transition: all 0.3s;
- line-height: 1.4em;
- border: 2px solid var(--green);
- background: linear-gradient(to right, rgba(27, 253, 156, 0.1) 1%, transparent 40%,transparent 60% , rgba(27, 253, 156, 0.1) 100%);
- color: var(--green);
- box-shadow: inset 0 0 10px rgba(27, 253, 156, 0.4), 0 0 9px 3px rgba(27, 253, 156, 0.1);
-}
-
-button:hover {
- color: #82ffc9;
- box-shadow: inset 0 0 10px rgba(27, 253, 156, 0.6), 0 0 9px 3px rgba(27, 253, 156, 0.2);
-}
-
-button:before {
- content: "";
- position: absolute;
- left: -4em;
- width: 4em;
- height: 100%;
- top: 0;
- transition: transform .4s ease-in-out;
- background: linear-gradient(to right, transparent 1%, rgba(27, 253, 156, 0.1) 40%,rgba(27, 253, 156, 0.1) 60% , transparent 100%);
-}
-
-button:hover:before {
- transform: translateX(15em);
-}
-</style>
