@@ -4,15 +4,15 @@
 <tabla>
     <tr>
         <a href="https://www.instagram.com/agus_damore/">
-            <button color: red>instagram!</button>
+            <button>instagram!</button>
         </a>
 
         <a href="https://twitter.com/damore_agustin">
-            <button color: red>twitter!</button>
+            <button>twitter!</button>
         </a>
 
         <a href="https://www.linkedin.com/in/agustindamore/">
-            <button color: red>linkedin!</button>
+            <button>linkedin!</button>
         </a>
     </tr>
 </tabla>
