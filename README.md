@@ -3,7 +3,7 @@
 </br>
 <tabla>
     <tr>
-        <td ancho="100%">
+        <td ancho="200%">
             <a href="https://www.instagram.com/agus_damore/">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="5%">
             </a>
